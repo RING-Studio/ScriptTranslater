@@ -1,0 +1,4 @@
+{
+    "chapter $name": "jump_to($name)",
+    "BGM: $music": "play_music($music)"
+}
